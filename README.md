@@ -1,5 +1,5 @@
 ## banner-mobile ##
-基于原生js实现的web移动端轮播图
+banner-mobile是基于原生js实现的web移动端轮播图
 
 ### 效果演示 ###
 
