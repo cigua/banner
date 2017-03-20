@@ -17,3 +17,7 @@
 </div>
 ```
 2. 在html代码中引入banner.css和banner.js文件
+```html
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/banner.js"></script>
+```
